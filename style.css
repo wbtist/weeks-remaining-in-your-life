@@ -1,0 +1,67 @@
+/* google fonts */
+@import url("https://fonts.googleapis.com/css?family=Maven+Pro&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Quicksand&display=swap");
+
+:root {
+  /* COLORS */
+  --MAIN-BG-color: rgb(222, 236, 235);
+  --MAIN-FONT-color: rgb(65, 57, 57);
+  --MAIN-LINK-color: rgb(37, 90, 123);
+  /* FONTS */
+  --MAIN-FONT-type: "Maven Pro";
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  background-color: var(--MAIN-BG-color);
+}
+
+body {
+  font-family: var(--MAIN-FONT-type);
+  font-size: 16px;
+  color: var(--MAIN-FONT-color);
+  height: 100vh;
+  width: 100%;
+}
+
+img {
+  /* No annoying space under the images :) */
+  display: block;
+}
+
+/* Sticky footer to the bottom */
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+/* Set links main look link decorations */
+a:link {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
+a:active {
+  text-decoration: none;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+  color: var(--MAIN-LINK-color);
+}
+
+.article-image {
+  width: 50vw;
+}

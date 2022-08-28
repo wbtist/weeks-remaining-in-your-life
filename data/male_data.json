@@ -1,0 +1,702 @@
+[
+  {
+    "page": 1,
+    "pages": 6,
+    "per_page": 50,
+    "total": 266,
+    "sourceid": "2",
+    "sourcename": "World Development Indicators",
+    "lastupdated": "2022-07-20"
+  },
+  [
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "ZH", "value": "Africa Eastern and Southern" },
+      "countryiso3code": "AFE",
+      "date": "2020",
+      "value": 62.1214911716678,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "ZI", "value": "Africa Western and Central" },
+      "countryiso3code": "AFW",
+      "date": "2020",
+      "value": 57.3258859042648,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "1A", "value": "Arab World" },
+      "countryiso3code": "ARB",
+      "date": "2020",
+      "value": 70.4971973599923,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "S3", "value": "Caribbean small states" },
+      "countryiso3code": "CSS",
+      "date": "2020",
+      "value": 71.6487645205694,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "B8", "value": "Central Europe and the Baltics" },
+      "countryiso3code": "CEB",
+      "date": "2020",
+      "value": 72.4441763984235,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "V2", "value": "Early-demographic dividend" },
+      "countryiso3code": "EAR",
+      "date": "2020",
+      "value": 69.1120311134782,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "Z4", "value": "East Asia & Pacific" },
+      "countryiso3code": "EAS",
+      "date": "2020",
+      "value": 73.9919996496126,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": {
+        "id": "4E",
+        "value": "East Asia & Pacific (excluding high income)"
+      },
+      "countryiso3code": "EAP",
+      "date": "2020",
+      "value": 73.1983406166694,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": {
+        "id": "T4",
+        "value": "East Asia & Pacific (IDA & IBRD countries)"
+      },
+      "countryiso3code": "TEA",
+      "date": "2020",
+      "value": 73.2505912091454,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "XC", "value": "Euro area" },
+      "countryiso3code": "EMU",
+      "date": "2020",
+      "value": 79.0188811833353,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "Z7", "value": "Europe & Central Asia" },
+      "countryiso3code": "ECS",
+      "date": "2020",
+      "value": 74.346067533052,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": {
+        "id": "7E",
+        "value": "Europe & Central Asia (excluding high income)"
+      },
+      "countryiso3code": "ECA",
+      "date": "2020",
+      "value": 69.3031229936101,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": {
+        "id": "T7",
+        "value": "Europe & Central Asia (IDA & IBRD countries)"
+      },
+      "countryiso3code": "TEC",
+      "date": "2020",
+      "value": 69.6759014389732,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "EU", "value": "European Union" },
+      "countryiso3code": "EUU",
+      "date": "2020",
+      "value": 77.7522263795379,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": {
+        "id": "F1",
+        "value": "Fragile and conflict affected situations"
+      },
+      "countryiso3code": "FCS",
+      "date": "2020",
+      "value": 61.0694883597973,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": {
+        "id": "XE",
+        "value": "Heavily indebted poor countries (HIPC)"
+      },
+      "countryiso3code": "HPC",
+      "date": "2020",
+      "value": 62.0224643112591,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "XD", "value": "High income" },
+      "countryiso3code": "",
+      "date": "2020",
+      "value": 77.5939950927746,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "XF", "value": "IBRD only" },
+      "countryiso3code": "IBD",
+      "date": "2020",
+      "value": 71.4430919150681,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "ZT", "value": "IDA & IBRD total" },
+      "countryiso3code": "IBT",
+      "date": "2020",
+      "value": 69.3013093311051,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "XH", "value": "IDA blend" },
+      "countryiso3code": "IDB",
+      "date": "2020",
+      "value": 61.4570553753421,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "XI", "value": "IDA only" },
+      "countryiso3code": "IDX",
+      "date": "2020",
+      "value": 63.9999070496927,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "XG", "value": "IDA total" },
+      "countryiso3code": "IDA",
+      "date": "2020",
+      "value": 63.1341082239385,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "V3", "value": "Late-demographic dividend" },
+      "countryiso3code": "LTE",
+      "date": "2020",
+      "value": 73.8291070908566,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "ZJ", "value": "Latin America & Caribbean" },
+      "countryiso3code": "LCN",
+      "date": "2020",
+      "value": 72.6394397745729,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": {
+        "id": "XJ",
+        "value": "Latin America & Caribbean (excluding high income)"
+      },
+      "countryiso3code": "LAC",
+      "date": "2020",
+      "value": 72.6205482412811,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": {
+        "id": "T2",
+        "value": "Latin America & the Caribbean (IDA & IBRD countries)"
+      },
+      "countryiso3code": "TLA",
+      "date": "2020",
+      "value": 72.5392838345888,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": {
+        "id": "XL",
+        "value": "Least developed countries: UN classification"
+      },
+      "countryiso3code": "LDC",
+      "date": "2020",
+      "value": 63.7389346438674,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "XO", "value": "Low & middle income" },
+      "countryiso3code": "LMY",
+      "date": "2020",
+      "value": 69.2617832284965,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "XM", "value": "Low income" },
+      "countryiso3code": "",
+      "date": "2020",
+      "value": 62.1275880246056,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "XN", "value": "Lower middle income" },
+      "countryiso3code": "",
+      "date": "2020",
+      "value": 67.6472308150582,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "ZQ", "value": "Middle East & North Africa" },
+      "countryiso3code": "MEA",
+      "date": "2020",
+      "value": 72.8134974714091,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": {
+        "id": "XQ",
+        "value": "Middle East & North Africa (excluding high income)"
+      },
+      "countryiso3code": "MNA",
+      "date": "2020",
+      "value": 72.1581206202715,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": {
+        "id": "T3",
+        "value": "Middle East & North Africa (IDA & IBRD countries)"
+      },
+      "countryiso3code": "TMN",
+      "date": "2020",
+      "value": 72.1530942840126,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "XP", "value": "Middle income" },
+      "countryiso3code": "MIC",
+      "date": "2020",
+      "value": 70.0882932792676,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "XU", "value": "North America" },
+      "countryiso3code": "NAC",
+      "date": "2020",
+      "value": 75.0367017863186,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "XY", "value": "Not classified" },
+      "countryiso3code": "",
+      "date": "2020",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "OE", "value": "OECD members" },
+      "countryiso3code": "OED",
+      "date": "2020",
+      "value": 77.029725910297,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "S4", "value": "Other small states" },
+      "countryiso3code": "OSS",
+      "date": "2020",
+      "value": 67.539097476369,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "S2", "value": "Pacific island small states" },
+      "countryiso3code": "PSS",
+      "date": "2020",
+      "value": 68.37133917248,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "V4", "value": "Post-demographic dividend" },
+      "countryiso3code": "PST",
+      "date": "2020",
+      "value": 77.4922571399138,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "V1", "value": "Pre-demographic dividend" },
+      "countryiso3code": "PRE",
+      "date": "2020",
+      "value": 59.8422004257841,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "S1", "value": "Small states" },
+      "countryiso3code": "SST",
+      "date": "2020",
+      "value": 68.2686633078549,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "8S", "value": "South Asia" },
+      "countryiso3code": "SAS",
+      "date": "2020",
+      "value": 68.5979062356818,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "T5", "value": "South Asia (IDA & IBRD)" },
+      "countryiso3code": "TSA",
+      "date": "2020",
+      "value": 68.5979062356818,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "ZG", "value": "Sub-Saharan Africa" },
+      "countryiso3code": "SSF",
+      "date": "2020",
+      "value": 60.1691637879055,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": {
+        "id": "ZF",
+        "value": "Sub-Saharan Africa (excluding high income)"
+      },
+      "countryiso3code": "SSA",
+      "date": "2020",
+      "value": 60.1680475242923,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": {
+        "id": "T6",
+        "value": "Sub-Saharan Africa (IDA & IBRD countries)"
+      },
+      "countryiso3code": "TSS",
+      "date": "2020",
+      "value": 60.1691637879055,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "XT", "value": "Upper middle income" },
+      "countryiso3code": "",
+      "date": "2020",
+      "value": 73.3819698413822,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "1W", "value": "World" },
+      "countryiso3code": "WLD",
+      "date": "2020",
+      "value": 70.5734420620669,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.DYN.LE00.MA.IN",
+        "value": "Life expectancy at birth, male (years)"
+      },
+      "country": { "id": "AF", "value": "Afghanistan" },
+      "countryiso3code": "AFG",
+      "date": "2020",
+      "value": 63.708,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    }
+  ]
+]
