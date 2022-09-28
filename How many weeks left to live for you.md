@@ -13,6 +13,7 @@ Tells the user in weeks, when he/she gona die, based on the Country where user l
 ```
 
 - Get the current year in JS
+- Might need to use NodeJs to interact with database
 - Get data from Worldbank API [good API Call](https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.FE.IN?date=2020:2020&format=json)
 
 ## Questions:
