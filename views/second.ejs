@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>How many t left</title>
+    <meta
+      name="description"
+      content="This app calculates how many weeks you have left to live based on entered age and location"
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+    <body>
+      <!--[if lt IE 7]>
+        <p class="browsehappy">
+          You are using an <strong>outdated</strong> browser. Please
+          <a href="#">upgrade your browser</a> to improve your experience.
+        </p>
+      <![endif]-->
+      <div id="wrapper">
+        <section>
+          <h1>Hello, <%= firstName %>!</h1><br>
+          <h3>You were born on <%= dob %></h3><br>
+          <p>
+          Days lived: <%= daysLived %>
+          <br>
+          Weeks lived:  <%= weeksLived %>
+          <br>
+          until today
+          <br>
+          Have A great day!
+          <br>
+          </p>
+          
+        </section>
+      </div>
+    </body>
+  </html>
+</html>

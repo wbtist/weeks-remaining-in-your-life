@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"><![endif]-->
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>How many weeks left</title>
+    <meta
+      name="description"
+      content="This app calculates how many weeks you have left to live based on entered age and location"
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <!--[if lt IE 7]>
+      <p class="browsehappy">
+        You are using an <strong>outdated</strong> browser. Please
+        <a href="#">upgrade your browser</a> to improve your experience.
+      </p>
+    <![endif]-->
+
+    <!-- <%- include('partials/header') -%> -->
+    <div id="wrapper">
+      <section>
+        <h1>Hello</h1>
+        <form action="/" method="post">
+          <label for="firstname">What is Your First Name?</label><br />
+          <input
+            type="text"
+            name="firstname"
+            placeholder="First Name"
+            required="required"
+          /><br />
+          <label for="dob">Your DOB</label><br />
+          <input
+            type="date"
+            name="dob"
+            placeholder="DOB"
+            required="required"
+          /><br />
+          <button type="submit">POST</button>
+        </form>
+      </section>
+    </div>
+
+    <!-- <%- include('partials/footer') -%> -->
+  </body>
+</html>

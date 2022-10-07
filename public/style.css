@@ -1,0 +1,188 @@
+/* google fonts */
+@import url("https://fonts.googleapis.com/css2?family=Inter+Tight:wght@100;500;700;800&family=Poppins:ital,wght@0,300;0,400;0,500;1,600&display=swap");
+
+:root {
+  /* COLORS */
+  --MAIN-BG-color: rgb(222, 236, 235);
+  --MAIN-FONT-color: rgb(65, 57, 57);
+  --MAIN-LINK-color: rgb(37, 90, 123);
+  --HEADING-TEXT-COLOR: #b8e66d;
+  /* FONTS */
+  --MAIN-FONT-type: "Inter Tight";
+}
+
+/* reset */
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+} /* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol,
+ul {
+  list-style: none;
+}
+blockquote,
+q {
+  quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* ------------------ END Reset ------------------------ */
+
+body {
+  /* / https://cssgradient.io/ / */
+  background: rgb(142, 137, 226);
+  background: linear-gradient(
+    90deg,
+    rgba(142, 137, 226, 1) 0%,
+    rgba(99, 17, 106, 1) 100%
+  );
+  font-family: var(--MAIN-FONT-type);
+  text-align: center;
+  color: azure;
+}
+
+#wrapper {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+section {
+  /* / https://ui.glass/generator/ / */
+  backdrop-filter: blur(16px) saturate(180%);
+  -webkit-backdrop-filter: blur(16px) saturate(180%);
+  background-color: rgba(17, 25, 40, 0.5);
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.125);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+  max-height: 80vh;
+  padding: 2rem;
+}
+
+h1 {
+  font-size: 5rem;
+  color: var(--HEADING-TEXT-COLOR);
+  font-weight: 900;
+}
+
+form > * {
+  margin: 10px 0;
+}
