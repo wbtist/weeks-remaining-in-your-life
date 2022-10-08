@@ -1,6 +1,7 @@
 const express = require("express");
 const bodyParser = require("body-parser");
 const { differenceInDays } = require("date-fns");
+const path = require("path");
 
 const port = 3000;
 const app = express();
@@ -20,7 +21,8 @@ let currentDay = today.getDay();
 // let weeksLived;
 // let daysLived;
 
-app.use(express.static(__dirname + "/public"));
+// app.use(express.static(__dirname + "/public"));
+app.use(express.static(path.join(__dirname, "/public")));
 app.use(bodyParser.urlencoded({ extended: true }));
 
 app.set("view engine", "ejs");

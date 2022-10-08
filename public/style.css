@@ -141,12 +141,14 @@ table {
 
 body {
   /* / https://cssgradient.io/ / */
-  background: rgb(142, 137, 226);
+  /* background: rgb(142, 137, 226);
   background: linear-gradient(
     90deg,
     rgba(142, 137, 226, 1) 0%,
     rgba(99, 17, 106, 1) 100%
-  );
+  ); */
+  background-image: url("/img/pexels-ahmed-adly-1270184.jpg");
+  background-size: contain;
   font-family: var(--MAIN-FONT-type);
   text-align: center;
   color: azure;
