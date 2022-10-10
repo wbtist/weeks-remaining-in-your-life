@@ -22,16 +22,25 @@
         <section>
           <h1>Hello, <%= firstName %>!</h1><br>
           <h3>You were born on <%= dob %></h3><br>
+          <h3>You are <%=age%> years old</h3>
           <p>
-          Days lived: <%= daysLived %>
+          So far You lived: <%= daysLived %> days, or <%= weeksLived %> weeks
           <br>
-          Weeks lived:  <%= weeksLived %>
-          <br>
-          until today
-          <br>
-          Have A great day!
-          <br>
+          Every box is a week since you born
           </p>
+          <div class="week-boxes">
+          <% for (let i = 0; i < weeksLived; i++) { %>
+            <div class="weeks-gone-squares"></div>
+          <% } %>
+        </div>
+        <br>
+        <p>You have <%= weeksleft %> weeks left in your lifetime</p>
+        <div class="week-boxes">
+          <% for (let i = 0; i < weeksleft; i++) { %>
+            <div class="weeks-remain-squares"></div>
+          <% } %>
+        </div>
+
           
         </section>
       </div>

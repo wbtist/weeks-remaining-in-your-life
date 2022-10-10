@@ -6,7 +6,9 @@
   --MAIN-BG-color: rgb(222, 236, 235);
   --MAIN-FONT-color: rgb(65, 57, 57);
   --MAIN-LINK-color: rgb(37, 90, 123);
-  --HEADING-TEXT-COLOR: #b8e66d;
+  --HEADING-TEXT-COLOR: #07f63f;
+  --DEFAULT-TEXT-COLOR: rgb(203, 203, 203);
+  --BUTTON-BG: #961fa1;
   /* FONTS */
   --MAIN-FONT-type: "Inter Tight";
 }
@@ -148,10 +150,12 @@ body {
     rgba(99, 17, 106, 1) 100%
   ); */
   background-image: url("/img/pexels-ahmed-adly-1270184.jpg");
-  background-size: contain;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: inherit;
   font-family: var(--MAIN-FONT-type);
   text-align: center;
-  color: azure;
+  color: var(--DEFAULT-TEXT-COLOR);
 }
 
 #wrapper {
@@ -170,21 +174,94 @@ section {
   background-color: rgba(17, 25, 40, 0.5);
   border-radius: 12px;
   border: 1px solid rgba(255, 255, 255, 0.125);
+  -webkit-box-shadow: 5px 1px 20px 6px #424040;
+  box-shadow: 5px 1px 20px 6px #424040;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  width: 50%;
-  max-height: 80vh;
+  max-width: 80%;
+  /* height: 100vh; */
   padding: 2rem;
 }
 
-h1 {
-  font-size: 5rem;
+h1,
+h2,
+h3 {
+  margin-bottom: 1rem;
   color: var(--HEADING-TEXT-COLOR);
+}
+
+h1 {
+  font-size: 3rem;
   font-weight: 900;
+}
+
+h2 {
+  font-size: 1.5rem;
 }
 
 form > * {
   margin: 10px 0;
+}
+
+input {
+  background-color: transparent;
+  padding: 0.4rem;
+  border-radius: 15px;
+  border: 2px solid var(--HEADING-TEXT-COLOR);
+  outline: none;
+}
+
+::placeholder {
+  color: dimgray;
+}
+
+input:focus {
+  background-color: transparent;
+  color: var(--DEFAULT-TEXT-COLOR);
+  outline: none;
+}
+
+input:focus {
+  color: var(--DEFAULT-TEXT-COLOR);
+}
+
+button {
+  background-color: var(--BUTTON-BG);
+  padding: 0.5rem;
+  color: var(--DEFAULT-TEXT-COLOR);
+  cursor: grabbing;
+}
+
+.dob {
+  color: var(--DEFAULT-TEXT-COLOR);
+}
+
+.container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.week-boxes {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 2px;
+}
+
+.weeks-gone-squares {
+  width: 7px;
+  height: 7px;
+  background-color: #70383878;
+}
+
+.weeks-remain-squares {
+  width: 7px;
+  height: 7px;
+  background-color: #306f3e;
 }

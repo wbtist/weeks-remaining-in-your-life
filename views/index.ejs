@@ -24,9 +24,11 @@
     <![endif]-->
 
     <!-- <%- include('partials/header') -%> -->
+
     <div id="wrapper">
-      <section>
-        <h1>Hello</h1>
+      <section class="index-section">
+        <h1>Well, hi...</h1>
+        <h2>I'll tell you how many weeks left in your lifetime</h2>
         <form action="/" method="post">
           <label for="firstname">What is Your First Name? </label>
           <input
@@ -37,12 +39,13 @@
           /><br />
           <label for="dob">Your DOB? </label>
           <input
+            class="dob"
             type="date"
             name="dob"
             placeholder="DOB"
             required="required"
           /><br />
-          <button type="submit">POST</button>
+          <button type="submit">I am brave enough to know!</button>
         </form>
       </section>
     </div>
