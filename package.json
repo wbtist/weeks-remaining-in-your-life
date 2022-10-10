@@ -1,7 +1,7 @@
 {
   "name": "weeks-remaining-in-your-life",
   "version": "1.0.0",
-  "description": "",
+  "description": "Based on user age data, calculates how many weeks left to live",
   "main": "server.js",
   "scripts": {
     "dev": "nodemon server.js",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/wbtist/weeks-remaining-in-your-life.git"
   },
-  "author": "",
+  "author": "Istvan Toth",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/wbtist/weeks-remaining-in-your-life/issues"
